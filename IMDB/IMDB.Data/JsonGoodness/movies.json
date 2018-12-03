@@ -1,0 +1,40 @@
+[
+	{
+		"ID": 1,
+		"Name": "Venom",
+		"MovieScore": 9.90,
+		"IsDeleted": false,
+		"DirectorID": 1,
+		"NumberOfVotes": 2
+	},
+	{
+		"ID": 2,
+		"Name": "A Star Is Born",
+		"MovieScore": 0.00,
+		"IsDeleted": false,
+		"DirectorID": 2
+	},
+	{
+		"ID": 3,
+		"Name": "Hold the Dark",
+		"MovieScore": 0.00,
+		"IsDeleted": false,
+		"DirectorID": 3
+	},
+	{
+		"ID": 4,
+		"Name": "Joker",
+		"MovieScore": 9.00,
+		"IsDeleted": false,
+		"DirectorID": 4,
+		"NumberOfVotes": 1
+	},
+	{
+		"ID": 5,
+		"Name": "A Simple Favor",
+		"MovieScore": 8.00,
+		"IsDeleted": false,
+		"DirectorID": 5,
+		"NumberOfVotes": 1
+	}
+]
